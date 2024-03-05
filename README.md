@@ -1,4 +1,4 @@
-<h1 align="center"> Calibração de câmera com Direct Linear Transformation (DLT </h1>
+<h1 align="center"> Calibração de câmera com Direct Linear Transformation - DLT </h1>
 
 <h2 align="center"> Programa de Pós Graduação em Ciência da Computação, Universidade Federal do Rio Grande do Sul - UFRGS </h2>
 
